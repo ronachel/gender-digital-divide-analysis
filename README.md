@@ -11,6 +11,8 @@ Using gender-disaggregated indicators from the **World Bank World Development In
 
 The study examines how gender disparities in internet access vary across regions, income levels, and time, while identifying countries that have successfully reduced digital gender inequalities.
 
+This project also reflects on the limitations of quantitative data and explores how lived experiences may shape and challenge data-driven narratives.
+
 ---
 
 ## Research Questions
@@ -91,6 +93,18 @@ Analytical methods include:
 - Countries with stronger digital infrastructure generally exhibit smaller gender gaps in connectivity.
 - Several countries have made notable progress in reducing gender disparities in internet access over time.
 - Persistent inequalities suggest that technological diffusion alone is insufficient to eliminate digital gender disparities.
+
+---
+
+## Reflection: Beyond Data
+
+While this analysis highlights global disparities in internet access, it also raises important questions about how knowledge is produced through data.
+
+Access to the internet does not necessarily reflect meaningful or equitable participation. Factors such as digital literacy, cultural norms, gender roles, and economic constraints shape how individuals engage with technology—dimensions that are not fully captured in quantitative datasets.
+
+This project reflects on the limitations of data in representing lived experience. While statistical indicators reveal patterns, they may overlook the everyday realities behind them.
+
+Moving forward, integrating participatory approaches and community perspectives can help create more inclusive and context-sensitive understandings of digital inequality.
 
 ---
 
