@@ -106,6 +106,12 @@ This project reflects on the limitations of data in representing lived experienc
 
 Moving forward, integrating participatory approaches and community perspectives can help create more inclusive and context-sensitive understandings of digital inequality.
 
+### Further Reflection
+
+For a more detailed discussion on the limitations of data and the role of lived experience in understanding digital inequality, see the full reflection here:
+
+[Read the full reflection](./reflection.md)
+
 ---
 
 ## Relevance to Sustainable Development
